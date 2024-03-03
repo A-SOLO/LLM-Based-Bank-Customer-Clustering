@@ -16,6 +16,7 @@ For this project, we will focus on the first 8 columns of the dataset, which inc
 * balance: average yearly balance(numeric)
 * housing: has a housing loan? (binary)
 * loan: has a personal loan? (binary)
+
 The dataset can be found in the "data" folder of the project repository as a compressed file. Inside the compressed file, you'll find two CSV files: train.csv (the original training dataset) and embedding_train.csv (the dataset after performing an embedding).
 
 # Getting Started:

@@ -16,7 +16,7 @@ For this project, we will focus on the first 8 columns of the dataset, which inc
 * balance: average yearly balance(numeric)
 * housing: has a housing loan? (binary)
 * loan: has a personal loan? (binary)
-The project uses the training dataset from Kaggle, which can be found in the "data" folder of the project repository as a compressed file. Inside the compressed file, you'll find two CSV files: train.csv (the original training dataset) and embedding_train.csv (the dataset after performing an embedding).
+The dataset can be found in the "data" folder of the project repository as a compressed file. Inside the compressed file, you'll find two CSV files: train.csv (the original training dataset) and embedding_train.csv (the dataset after performing an embedding).
 
 # Getting Started:
 ## Installation:
@@ -31,3 +31,4 @@ To create clusters when you have a mix of features (categorical and numerical), 
 ### LLM + K-Means:
 To apply llm in cluttering projects, steps can be found in file titled embedding.ipynb.
 
+![1](https://github.com/A-SOLO/LLM-Based-Bank-Customer-Clustering/assets/78963312/69ce65f2-963a-474b-af07-f676734f5c1b)

@@ -34,4 +34,6 @@ To apply llm in cluttering projects, steps can be found in file titled embedding
 
 ![1](https://github.com/A-SOLO/LLM-Based-Bank-Customer-Clustering/assets/78963312/69ce65f2-963a-474b-af07-f676734f5c1b)
 
+# Result:
+### Enhanced model interpretability
 Whether working with numerical, categorical, or mixed data types, LLM approach ensures a nuanced understanding of customer segments, empowering businesses to tailor strategies with unparalleled precision.
